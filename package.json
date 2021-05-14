@@ -1,0 +1,27 @@
+{
+  "name": "understanding-typescript",
+  "version": "1.0.0",
+  "description": "Understanding Typescript 2021 Course Edition",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACristea97/understanding-typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "tutorials"
+  ],
+  "author": "Cristea Adrian-Petru",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ACristea97/understanding-typescript/issues"
+  },
+  "homepage": "https://github.com/ACristea97/understanding-typescript#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  }
+}
